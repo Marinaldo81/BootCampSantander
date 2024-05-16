@@ -1,5 +1,5 @@
 Sintaxe - Desafio - Projeto
-oO conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
+O conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
 O Projeto ContaTerminal que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
 
